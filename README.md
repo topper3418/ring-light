@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ## Run Spinner Demo
 
 ```bash
-python spin_ring.py
+python spin_demo.py
 ```
 
 ## API Example
